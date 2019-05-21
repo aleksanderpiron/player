@@ -2,12 +2,21 @@
   "name": "player",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://aleksanderpiron.github.io/player",
   "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "gh-pages": "^2.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
