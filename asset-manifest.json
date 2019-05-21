@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/player/static/css/main.d6d6d9cb.chunk.css",
+    "main.js": "/player/static/js/main.9f244396.chunk.js",
+    "main.js.map": "/player/static/js/main.9f244396.chunk.js.map",
+    "runtime~main.js": "/player/static/js/runtime~main.11497286.js",
+    "runtime~main.js.map": "/player/static/js/runtime~main.11497286.js.map",
+    "static/js/2.279d8c85.chunk.js": "/player/static/js/2.279d8c85.chunk.js",
+    "static/js/2.279d8c85.chunk.js.map": "/player/static/js/2.279d8c85.chunk.js.map",
+    "index.html": "/player/index.html",
+    "precache-manifest.91f45523c14d6136613ff1e575e5f8cd.js": "/player/precache-manifest.91f45523c14d6136613ff1e575e5f8cd.js",
+    "service-worker.js": "/player/service-worker.js",
+    "static/css/main.d6d6d9cb.chunk.css.map": "/player/static/css/main.d6d6d9cb.chunk.css.map",
+    "static/media/contra.jpg": "/player/static/media/contra.69d45070.jpg",
+    "static/media/contra.mp3": "/player/static/media/contra.ad79aa6f.mp3",
+    "static/media/mario.mp3": "/player/static/media/mario.c72a3130.mp3",
+    "static/media/sonic.jpg": "/player/static/media/sonic.978bef80.jpg",
+    "static/media/sonic.mp3": "/player/static/media/sonic.dd8ce4db.mp3",
+    "static/media/tetris.png": "/player/static/media/tetris.2b61c488.png",
+    "static/media/tetris.mp3": "/player/static/media/tetris.aa3c92a9.mp3",
+    "static/media/zelda.mp3": "/player/static/media/zelda.6b45623b.mp3"
+  }
+}
